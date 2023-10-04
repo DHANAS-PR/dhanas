@@ -1,0 +1,10 @@
+list1=['abc',60,78,45,'manu',10,'dude']
+print(list1)
+list1.pop(1)
+print(list1)
+list1.pop(4)
+print(list1)
+list1.pop(-1)
+print(list1)
+list1.pop(-2)
+print(list1)

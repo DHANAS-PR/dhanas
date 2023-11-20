@@ -1,0 +1,4 @@
+function valiDate(){
+alert("succesfull")
+}
+  
